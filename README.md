@@ -1,11 +1,19 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iamcrjones/iamcrjones)
+
+### Languages and Tools:
+
+<div>
+  https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
+</div>
+
 ### :fire: My Stats :
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamcrjones&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamcrjones&theme=tokyonight)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+Contact Me:
 
 <a href="https://www.linkedin.com/in/iamcrjones/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
