@@ -3,12 +3,11 @@ My name is Cameron and welcomne to my GitHub profile!
 I am an emerging web development professional from Brisbane, Australia currently studying through Coder Academy with the Flex-Track version of the course.
 
 ### Some details about me:
-<div>
+
   🔭 I’m currently working on: Rebuilding my portfolio website with ReactJS
   🌱 I’m currently learning: React & MERN stack
   😄 Pronouns: He/Him
   ⚡ Fun fact: My favourite Pokemon is Bulbasaur!
-</div>
 
 ### My Skills:
 <div>
