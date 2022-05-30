@@ -9,6 +9,7 @@ I am an emerging web development professional from Brisbane, Australia currently
   😄 Pronouns: He/Him
   ⚡ Fun fact: My favourite Pokemon is Bulbasaur!
 </div>
+
 ### My Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
