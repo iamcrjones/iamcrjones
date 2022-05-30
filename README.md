@@ -4,13 +4,17 @@ I am an emerging web development professional from Brisbane, Australia currently
 
 ### Some details about me:
 
-  ##### 🔭 I’m currently working on: Rebuilding my portfolio website with ReactJS
+  #### 🔭 I’m currently working on: 
+  Rebuilding my portfolio website with ReactJS
   
-  ##### 🌱 I’m currently learning: React & MERN stack
+  #### 🌱 I’m currently learning: 
+  React & MERN stack
   
-  ##### 😄 Pronouns: He/Him
+  #### 😄 Pronouns:
+  He/Him
   
-  ##### ⚡ Fun fact: My favourite Pokemon is Bulbasaur!
+  #### ⚡ Fun fact: 
+  My favourite Pokemon is Bulbasaur!
 
 ### My Skills:
 <div>
