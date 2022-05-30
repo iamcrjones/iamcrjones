@@ -1,6 +1,7 @@
 ## Greetings! 👋
 My name is Cameron and welcomne to my GitHub profile!
-I am an emerging web development professional from Brisbane, Australia currently studying through Coder Academy with the Flex-Track version of the course.
+I am an emerging web development professional from Brisbane, Australia.
+I'm currently studying full-stack web development through Coder Academy with the Flex-Track version of the course.
 
 ### Some details about me:
 
