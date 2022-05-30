@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### :fire: My Stats :
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamcrjones&count_private=true&show_icons=true&hide=contribs&theme=radical)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamcrjones&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamcrjones&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamcrjones&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&layout=compact&themetokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
