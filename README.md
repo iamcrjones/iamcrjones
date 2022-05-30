@@ -4,7 +4,7 @@
 ### Languages and Tools:
 
 <div>
-  https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>;
 </div>
 
 ### :fire: My Stats :
