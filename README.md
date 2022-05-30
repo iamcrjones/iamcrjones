@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### :fire: My Stats :
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamcrjones&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamcrjones&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamcrjones&theme=dark&background=000000)](https://git.io/streak-stats)
 
