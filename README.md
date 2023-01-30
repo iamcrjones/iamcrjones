@@ -18,7 +18,7 @@ I'm currently studying full-stack web development through Coder Academy with the
     My favourite Pokemon is Bulbasaur!
 
 ### My Skills:
-<div>
+<div style="display:flex justify-content:space-evenly">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
