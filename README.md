@@ -9,7 +9,7 @@ I'm currently studying full-stack web development through Coder Academy with the
     Rebuilding my portfolio website with ReactJS
   
   #### 🌱 I’m currently learning: 
-    React & MERN stack
+    TypeScript
   
   #### 😄 Pronouns:
     He/Him
