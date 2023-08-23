@@ -36,11 +36,12 @@ I'm currently studying full-stack web development through Coder Academy with the
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="50" height="50"/>
   </div>
 
+<!--
 ### :fire: My Stats :
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamcrjones&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 How to reach me:
 
