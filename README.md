@@ -6,13 +6,10 @@ I'm currently studying full-stack web development through Coder Academy with the
 ### Some details about me:
 
   #### 🔭 I’m currently working on: 
-    Rebuilding my portfolio website with ReactJS
+    My new portfolio website
   
   #### 🌱 I’m currently learning: 
     TypeScript
-  
-  #### 😄 Pronouns:
-    He/Him
   
   #### ⚡ Fun fact: 
     My favourite Pokemon is Bulbasaur!
