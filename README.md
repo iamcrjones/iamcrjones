@@ -1,6 +1,6 @@
 ## Greetings! 👋
-My name is Cameron and welcomne to my GitHub profile!
-I am a Software Developer based in Brisbane, Australia.
+My name is Cameron and welcome to my GitHub profile!
+I'm Software Developer based in Brisbane, Australia.
 
 ### Some details about me:
 
