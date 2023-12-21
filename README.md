@@ -2,16 +2,6 @@
 My name is Cameron and welcome to my GitHub profile!
 I'm Software Developer based in Brisbane, Australia.
 
-[//]: ### Some details about me:
-
-  [//]: #### 🔭 I’m currently working on: 
-    [//]: Something 👀
-  
-  [//]: #### 🌱 I’m currently learning: 
-    [//]: TypeScript
-  
-  [//]: #### ⚡ Fun fact: 
-    [//]: My favourite Pokemon is Bulbasaur!
   ### My Skills:
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
