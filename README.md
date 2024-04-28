@@ -30,7 +30,7 @@ I'm Software Developer based in Brisbane, Australia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamcrjones)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 How to reach me:
 
