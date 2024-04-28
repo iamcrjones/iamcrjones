@@ -2,6 +2,7 @@
 My name is Cameron and welcome to my GitHub profile!
 I'm Software Developer based in Brisbane, Australia.
 
+<!--
   ### My Skills:
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
@@ -20,7 +21,7 @@ I'm Software Developer based in Brisbane, Australia.
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="50"       height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="50" height="50"/>
-  </div>
+  </div>-->
 
 <!--
 ### :fire: My Stats :
@@ -29,22 +30,8 @@ I'm Software Developer based in Brisbane, Australia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
+[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamcrjones)](https://github.com/anuraghazra/github-readme-stats)
+
 How to reach me:
 
 <a href="https://www.linkedin.com/in/iamcrjones/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:iamcrjones@gmail.com">![iamcrjones@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-<!--
-**iamcrjones/iamcrjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
