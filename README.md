@@ -1,9 +1,5 @@
 ## Greetings! 👋
 My name is Cameron and welcome to my GitHub profile!
-I'm Software Developer based in Brisbane, Australia.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrjones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamcrjones&theme=tokyonight)](https://git.io/streak-stats)
 
 How to reach me:
 
